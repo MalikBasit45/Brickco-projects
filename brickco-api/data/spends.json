@@ -1,0 +1,16 @@
+{
+  "spends": [
+    {
+      "id": "1748849926213",
+      "labour": 0,
+      "clay": 0,
+      "coal": 0,
+      "transport": 0,
+      "other": 0,
+      "month": 6,
+      "year": 2025,
+      "total": 0,
+      "createdAt": "2025-06-02T07:39:09.210Z"
+    }
+  ]
+}

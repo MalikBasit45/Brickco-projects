@@ -1,0 +1,99 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "customerId": "1",
+      "brickId": "1",
+      "quantity": 10,
+      "amount": 299.99,
+      "status": "done",
+      "createdAt": "2024-03-15T10:30:00.000Z"
+    },
+    {
+      "id": "2",
+      "customerId": "2",
+      "brickId": "2",
+      "quantity": 5,
+      "amount": 149.5,
+      "status": "done",
+      "createdAt": "2024-03-16T14:20:00.000Z"
+    },
+    {
+      "id": "3",
+      "customerId": "1",
+      "brickId": "3",
+      "quantity": 15,
+      "amount": 499.99,
+      "status": "done",
+      "createdAt": "2024-03-17T09:15:00.000Z"
+    },
+    {
+      "id": "4",
+      "customerId": "3",
+      "brickId": "1",
+      "quantity": 6,
+      "amount": 180.75,
+      "status": "done",
+      "createdAt": "2023-12-05T14:20:00Z"
+    },
+    {
+      "id": "5",
+      "customerId": "2",
+      "brickId": "2",
+      "quantity": 3,
+      "amount": 95.5,
+      "status": "done",
+      "createdAt": "2023-11-28T11:10:00Z"
+    },
+    {
+      "id": "6",
+      "customerId": "1",
+      "brickId": "3",
+      "quantity": 5,
+      "amount": 150.25,
+      "status": "done",
+      "createdAt": "2023-11-15T16:30:00Z"
+    },
+    {
+      "id": "7",
+      "customerId": "3",
+      "brickId": "1",
+      "quantity": 8,
+      "amount": 200,
+      "status": "done",
+      "createdAt": "2024-01-16T08:45:00Z"
+    },
+    {
+      "id": "8",
+      "customerId": "1",
+      "amount": 0.18,
+      "status": "done",
+      "createdAt": "2025-06-01T21:57:34.504Z"
+    },
+    {
+      "id": "9",
+      "customerId": "3",
+      "amount": 0.24,
+      "status": "pending",
+      "createdAt": "2025-06-01T21:59:44.383Z"
+    },
+    {
+      "id": "10",
+      "customerId": "3",
+      "brickId": "1",
+      "quantity": 200,
+      "amount": 210,
+      "status": "pending",
+      "createdAt": "2025-06-01T22:18:24.304Z"
+    },
+    {
+      "id": "11",
+      "customerId": "3",
+      "brickId": "5",
+      "quantity": 11000,
+      "amount": 110000,
+      "status": "pending",
+      "createdAt": "2025-06-01T22:19:59.227Z"
+    }
+  ]
+}

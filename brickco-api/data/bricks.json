@@ -1,0 +1,39 @@
+{
+  "bricks": [
+    {
+      "id": "1",
+      "name": "Red 2x4 Brick",
+      "stock": 142,
+      "minStockThreshold": 50,
+      "price": 1.05
+    },
+    {
+      "id": "2",
+      "name": "Blue 2x2 Brick",
+      "stock": 30,
+      "minStockThreshold": 40,
+      "price": 0.75
+    },
+    {
+      "id": "3",
+      "name": "Yellow 1x6 Brick",
+      "stock": 185,
+      "minStockThreshold": 75,
+      "price": 1.25
+    },
+    {
+      "id": "4",
+      "name": "Green 2x3 Brick",
+      "stock": 45,
+      "minStockThreshold": 60,
+      "price": 0.85
+    },
+    {
+      "id": "5",
+      "name": "black",
+      "stock": 1000,
+      "price": 10,
+      "minStockThreshold": 10
+    }
+  ]
+}

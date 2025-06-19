@@ -1,0 +1,3 @@
+[project]
+project_id = "ykdlpnojsjiqqrpytnpg"
+db_url = "postgresql://postgres:g3P4W0bGmPxEzyvQ@db.ykdlpnojsjiqqrpytnpg.supabase.co:5432/postgres" 
